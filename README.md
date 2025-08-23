@@ -10,7 +10,7 @@
 - 💻 C# / .NET
 - 🔌 Zenject (DI)
 - ⏳ UniTask (async/await)
-- 🕹 Game Mechanics & Level Design
+- 🕹 Game Mechanics, UI
 - 🎨 Photoshop / Blender (базовый уровень)
 
 ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyFh3&show_icons=true&theme=tokyonight)
