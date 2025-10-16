@@ -8,8 +8,8 @@
 ---
 
 ### 🧰 Мой стек
-- Unity (2020–2025)
-- C# / .NET
+- Unity
+- C#
 - Zenject (DI)
 - UniTask (async/await)
 - UI Systems
