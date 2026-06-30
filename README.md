@@ -1,13 +1,14 @@
-# 👋 Привет, я Андрей
+# 👋 Hi, I'm Andrey
 
 🎮 **Unity Developer** | 💡 **C# Enthusiast** | 🚀 **Indie Game Creator**
 
-Люблю технологии и создание игр. Развиваюсь как Unity-разработчик: изучаю архитектуру, DI, асинхронность и мета-геймплей.  
-Постоянно пробую новые подходы, чтобы делать проекты чище, гибче и интереснее.
+I love technology and game development. I'm growing as a Unity developer, studying architecture, DI, asynchronous programming, and meta-gameplay.
+I'm always experimenting with new approaches to make my projects cleaner, more flexible, and more interesting.
 
 ---
 
-### 🧰 Мой стек
+### 🧰 My Stack
+
 - Unity
 - C#
 - Zenject (DI)
@@ -17,18 +18,30 @@
 - UniRX
 - Addressables
 
-**Дополнительно:**
+**Additionally:**
+
 - Git
-- Photoshop / Illustrator (основы)
-- Blender / 3Ds max (основы)
+- Photoshop / Illustrator (basics)
+- Blender (basics)
 - After Effects
 
 ---
 
-### 📦 Мои проекты
+### 📦 My Projects
 
-🏰 **[Tower Defence](https://github.com/AndreyFH3/TowerDefence)** — прототип Tower Defence с архитектурой на Zenject и асинхронностью через UniTask.  
-🚗 **[OverDrive](https://github.com/AndreyFH3/OverDrive)** — демонстрация паттерна MVVM, Zenject, Addressables и асинхронной логики.  
-🏎️ **[Need For Race](https://github.com/AndreyFH3/TheCarGame)** — ранний проект для Яндекс.Игр. Unity + C#, работа с внешними API и публикацией.
+🏰 **[Tower Defence](https://github.com/AndreyFH3/TowerDefence)** — a Tower Defence prototype built with Zenject architecture and UniTask-based asynchronous logic.
 
-> 💡 Подробнее — см. закрепленные репозитории.
+🚗 **[OverDrive](https://github.com/AndreyFH3/OverDrive)** — a demonstration of the MVVM pattern, Zenject, Addressables, and asynchronous logic.
+
+🏎️ **[Need For Race](https://github.com/AndreyFH3/TheCarGame)** — an early project for Yandex Games. Built with Unity and C#, including work with external APIs and publishing.
+
+**Commercial Projects**
+
+⚛️ **Gravity Guardians** — [App Store](https://apps.apple.com/us/app/gg-idle-rpg-%D0%B8%D0%B3%D1%80%D1%8B-%D0%B8-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/id6593686824) / [Play Market](https://play.google.com/store/apps/details?id=com.icelavarock.GravityGuardians&pcampaignid=web_share) — 
+- Designed and implemented gameplay systems using C# and Unity architecture principles.
+- Created data-driven solutions using ScriptableObjects to make game content flexible and easily configurable.
+- Developed UI systems, animations, and interactive elements to improve player experience.
+- Worked on localization pipelines and content management for multilingual support.
+- Integrated and maintained save/load systems and player progression logic.
+- Structured and processed game data to support scalable content creation.
+- Debugged, optimized, and refined systems throughout development.
