@@ -29,7 +29,7 @@ I'm always experimenting with new approaches to make my projects cleaner, more f
 
 ### 📦 My Projects
 
-🏰 **[Cat Clicket](https://github.com/AndreyFH3/BadBoyClicker)** — a full cucle game for yandex games. AI used as helper. Game in release. [Click to open](https://yandex.ru/games/app/uiutnyi-kliker-551383)
+🏰 **[Cat Clicket](https://github.com/AndreyFH3/BadBoyClicker)** — Full Cycle Game Development for Yandex Games. AI used as helper. Game in release. [Click to open](https://yandex.ru/games/app/uiutnyi-kliker-551383)
 
 **Commercial Projects**
 
