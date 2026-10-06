@@ -28,15 +28,8 @@ I'm always experimenting with new approaches to make my projects cleaner, more f
 ---
 
 ### 📦 My Projects
-Fresh project:
+
 🏰 **[Cat Clicket](https://github.com/AndreyFH3/BadBoyClicker)** — a full cucle game for yandex games. AI used as helper. Game in release. [Click to open](https://yandex.ru/games/app/uiutnyi-kliker-551383)
-
-Old
-🏰 **[Tower Defence](https://github.com/AndreyFH3/TowerDefence)** — a Tower Defence prototype built with Zenject architecture and UniTask-based asynchronous logic.
-
-🚗 **[OverDrive](https://github.com/AndreyFH3/OverDrive)** — a demonstration of the MVVM pattern, Zenject, Addressables, and asynchronous logic.
-
-🏎️ **[Need For Race](https://github.com/AndreyFH3/TheCarGame)** — an early project for Yandex Games. Built with Unity and C#, including work with external APIs and publishing.
 
 **Commercial Projects**
 
