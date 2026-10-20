@@ -15,12 +15,11 @@ I'm always experimenting with new approaches to make my projects cleaner, more f
 - UniTask (async/await)
 - UI Systems
 - DOTween / DOTween PRO
-- UniRX
 - Addressables
+- Git
 
 **Additionally:**
 
-- Git
 - Photoshop / Illustrator (basics)
 - Blender (basics)
 - After Effects
